@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local database and environment files (may contain user data / secrets)
+db.sqlite3
+*.sqlite3
+.env
+.env.*
+
+# Node / Tailwind build tooling
+node_modules/
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
