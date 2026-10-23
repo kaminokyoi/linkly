@@ -37,8 +37,8 @@ A minimal **URL shortener / link tracker** built with **Django**. Save a link un
 ## Getting started
 
 ```bash
-git clone <repo-url>
-cd <repo-folder>
+git clone https://github.com/kaminokyoi/linkly.git
+cd linkly
 
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
